@@ -22,6 +22,10 @@
 - Fitness exercises for every week as in online mode students are becoming lethargic.
 - Online parents-teacher meeting.
 
+### Screenshots
+<img width="230" alt="Screenshot 2021-03-20 at 12 20 45 AM" src="https://user-images.githubusercontent.com/54908977/111829004-2221f700-8912-11eb-96aa-bf19d9a6284c.png">......<img width="212" alt="Screenshot 2021-03-20 at 12 22 54 AM" src="https://user-images.githubusercontent.com/54908977/111829219-6d3c0a00-8912-11eb-902b-5107d2f6b2ff.png">.......
+<img width="212" alt="Screenshot 2021-03-20 at 12 22 16 AM" src="https://user-images.githubusercontent.com/54908977/111829168-5695b300-8912-11eb-98e6-4bfb65f7f8b3.png">
+
 
 ## Installation
 
